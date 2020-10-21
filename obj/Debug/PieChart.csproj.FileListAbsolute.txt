@@ -1,0 +1,9 @@
+C:\Users\Larisa\Desktop\Downloads\PieChart\bin\Debug\PieChart.exe
+C:\Users\Larisa\Desktop\Downloads\PieChart\bin\Debug\PieChart.pdb
+C:\Users\Larisa\Desktop\Downloads\PieChart\obj\Debug\PieChart.csprojAssemblyReference.cache
+C:\Users\Larisa\Desktop\Downloads\PieChart\obj\Debug\PieChart.Form1.resources
+C:\Users\Larisa\Desktop\Downloads\PieChart\obj\Debug\PieChart.Properties.Resources.resources
+C:\Users\Larisa\Desktop\Downloads\PieChart\obj\Debug\PieChart.csproj.GenerateResource.cache
+C:\Users\Larisa\Desktop\Downloads\PieChart\obj\Debug\PieChart.csproj.CoreCompileInputs.cache
+C:\Users\Larisa\Desktop\Downloads\PieChart\obj\Debug\PieChart.exe
+C:\Users\Larisa\Desktop\Downloads\PieChart\obj\Debug\PieChart.pdb
